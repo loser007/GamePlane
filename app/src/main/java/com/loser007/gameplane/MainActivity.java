@@ -41,7 +41,7 @@ public class MainActivity extends Activity implements Button.OnClickListener {
     }
 
     public void startAbout(){
-        Uri uri = Uri.parse("https://www.baidu.com");
+        Uri uri = Uri.parse("https://github.com/loser007/GamePlane/tree/master");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
