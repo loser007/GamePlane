@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.bb.un"
+        applicationId "com.sair.un"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
